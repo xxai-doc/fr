@@ -2,9 +2,9 @@
 
 * [Site Web Documentation multilingue](https://github.com/xxai-doc)
 
-Le code frontal du site Web est open source, bienvenue pour aider à optimiser la traduction
+Le code frontal du site est open source, bienvenue pour aider à optimiser la traduction
 
-* [code frontal](https://github.com/xxai-art/web)
+* [Code frontal](https://github.com/xxai-art/web)
 * [Packs de langues pour le site dans son ensemble](https://github.com/xxai-art/web/tree/main/i18n)
 * [Packs de langue pour les modules de connexion](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Site Web Documentation multilingue](https://github.com/xxai-doc)
