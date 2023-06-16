@@ -17,14 +17,14 @@ Le langage de programmation frontal est [@w5/coffee_plus](http://npmjs.com/@w5/c
 
 S'appuyer sur les 3 projets suivants
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Le modèle de démarquage, avec le suffixe `.mdt` , peut faire référence à des fichiers externes avec une syntaxe similaire à `<+ ./coffee_plus/import.js>` .
+  Le suffixe est `.mdt` , vous pouvez utiliser la syntaxe similaire à `<+ ./coffee_plus/import.js>` pour faire référence à des fichiers externes et générer une démarque avec le suffixe `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-La traduction Markdown ne traduira pas les codes et les liens, et mettra en cache les phrases traduites. Si la traduction est modifiée mais que le texte original n'est pas modifié, l'exécuter à nouveau n'écrasera pas la modification de la traduction.
+  La traduction Markdown ne traduira pas les codes et les liens, et mettra en cache les phrases traduites. Si la traduction est modifiée mais que le texte original n'est pas modifié, l'exécuter à nouveau n'écrasera pas la modification de la traduction.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Fichiers de langue pour la traduction de sites Web générés par `yaml` .
+  Fichiers de langue pour la traduction de sites Web générés par `yaml` .
